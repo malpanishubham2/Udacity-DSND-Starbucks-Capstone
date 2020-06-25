@@ -30,4 +30,4 @@ So in this project we are going to answer these questions and make a model which
 - The most common offer type among all age groups is the BOGO , followed by the Discount Offers. Whereas, the least common offer to be sent is the informational offers. I believe that BOGO offers are more attractive compared to other offers provided by Starbucks.
 - Finally i would conclude that i have successfully made a model which tells with 87% accuracy that what happens when a customer is presented with an offer. I really enjoyed doing the whole project. Though it was very extensive it was fun and engaging.
 ## Blogpost
-Here is the [link](will do in a few hours) to the blogpost.
+Here is the [link](https://medium.com/@shubham.malpani/analyzing-starbucks-data-c3d7b137f4b3) to the blogpost.
